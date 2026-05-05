@@ -1,9 +1,10 @@
-# 👋 Hi, I’m @KamenKadiyski
+# 👋 Hi, I’m @KamenKadiyski in English version
 
 ### 🛠 Tech Stack
-![Python](https://shields.io)
-![Django](https://shields.io)
-![Git](https://shields.io)
+- 🐍 **Python** (Core Logic & Scripting)
+- 🎸 **Django** (Web Framework)
+- 🌿 **Git** (Version Control)
+- 🛠 **WebStorm / VS Code** (IDE)
 
 ### 🚀 About Me
 I’m a coding enthusiast currently going "all-in" on the **Python** ecosystem. I’m a firm believer that clean code is like a good joke – if you have to explain it, it’s not that good.
@@ -22,7 +23,13 @@ I’m a coding enthusiast currently going "all-in" on the **Python** ecosystem. 
 
 
 
+
 # 👋 Здравейте, аз съм Камен Кадийски на български език
+### 🛠 Tech Stack
+- 🐍 **Python** (Core Logic & Scripting)
+- 🎸 **Django** (Web Framework)
+- 🌿 **Git** (Version Control)
+- 🛠 **WebStorm / VS Code** (IDE)
 
 ### 🚀 За мен
 Аз съм ентусиаст на тема програмиране, който в момента е „all-in“ в света на **Python**. Вярвам, че чистият код е като добрата шега – няма нужда от обяснения.
