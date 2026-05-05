@@ -1,9 +1,7 @@
 # 👋 Hi, I’m @KamenKadiyski
 
 ### 🛠 Tech Stack
-![Python](https://shields.io)
-![Django](https://shields.io)
-![Git](https://shields.io)
+<img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="Django" /> <img src="https://shields.io" alt="Git" />
 
 ### 🚀 About Me
 I’m a coding enthusiast currently going "all-in" on the **Python** ecosystem. I’m a firm believer that clean code is like a good joke – if you have to explain it, it’s not that good.
