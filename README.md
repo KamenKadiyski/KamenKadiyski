@@ -1,13 +1,18 @@
-# 👋 Hi, I’m @KamenKadiyski in English version
+# 👋 Hi, I’m @KamenKadiyski
+
+### 🛠 Tech Stack
+![Python](https://shields.io)
+![Django](https://shields.io)
+![Git](https://shields.io)
 
 ### 🚀 About Me
 I’m a coding enthusiast currently going "all-in" on the **Python** ecosystem. I’m a firm believer that clean code is like a good joke – if you have to explain it, it’s not that good.
 
-- 👀 **Interests:** Everything Python – from automating tedious tasks to building intelligent applications.
-- 🌱 **Currently learning:** Mastering Python syntax and learning how to turn coffee into functional scripts.
-- 💞️ **Looking to collaborate on:** Small open-source projects that challenge me to become a better developer.
-- 📫 **How to reach me:** You can find me here (via Issues or Pull Requests) or shoot me a message.
-- ⚡ **Fun fact:** The first time I heard about Python, I thought we were talking about a terrarium, not a programming language. Now I know the only snakes I like are the ones that don't throw a `SyntaxError`.
+- 👀 **Interests:** Everything Python – from automating tedious tasks to building robust web applications with **Django**.
+- 🌱 **Currently learning:** Mastering Python syntax, turning coffee into functional scripts, and diving deep into **Django** to build the "batteries-included" way.
+- 💞️ **Looking to collaborate on:** Open-source projects that challenge me to become a better developer and explore backend magic.
+- 📫 **How to reach me:** You can find me here via Issues/Pull Requests or just shoot me a message.
+- ⚡ **Fun fact:** I used to think Python belonged in a terrarium, but now the only snakes I like are the ones that don't throw a `SyntaxError`. Also, I chose Django because the "D" is silent, but my code speaks for itself!
 
 ---
 *“Done is better than perfect, but clean code is king.”*
